@@ -40,8 +40,21 @@ int main() {
 
     return 0;
 }
-Compile and Run:
-Compile the code using a C++ compiler and run the program. Input different values to observe how each arithmetic operator handles the numbers and produces results.
+OUTPUT:
+1.Arithmetic operations
+![Screenshot 2024-09-05 153630](https://github.com/user-attachments/assets/5c2d1f41-783b-4659-b6ba-9a9f4fb56374)
+
+2.Comparison operators
+![Screenshot 2024-09-05 153637](https://github.com/user-attachments/assets/2da2ade1-2ded-415e-9593-c414b3080ac0)
+
+3.Comparison operator with true and false:
+![Screenshot 2024-09-05 153646](https://github.com/user-attachments/assets/3bab1814-17bf-4a28-8ec0-bfe7ca4212a0)
+
+4.Logical operator with true and false:
+![Screenshot 2024-09-05 153653](https://github.com/user-attachments/assets/a3c302e7-fe7b-47dc-ab6f-9e89962c799d)
+
+5.Logical operator:
+![Screenshot 2024-09-05 153700](https://github.com/user-attachments/assets/585c1845-783a-4c99-b070-45a0af3201b0)
 
 Conclusion:
 Arithmetic operators in C++ are fundamental for performing basic mathematical calculations. The +, -, *, /, and % operators are essential tools for manipulating numeric data. By understanding these operators, programmers can efficiently handle arithmetic operations in their programs. The examples illustrate their practical application and reinforce their importance in everyday programming tasks.
